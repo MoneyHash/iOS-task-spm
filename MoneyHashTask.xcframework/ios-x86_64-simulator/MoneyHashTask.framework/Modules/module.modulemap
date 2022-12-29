@@ -1,6 +1,0 @@
-framework module MoneyHashTask {
-    umbrella header "MoneyHashTask.h"
-
-    export *
-    module * { export * }
-}
